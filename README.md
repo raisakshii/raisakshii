@@ -1,102 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sakshi Rai</h1>
-<h3 align="center">MCA Student | Java Developer | Web Developer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Web+Developer;Open+Source+Learner;Python+Enthusiast&center=true&width=500&height=50">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Sakshi%20Rai&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
----
+# 💫 Welcome to My GitHub Profile
 
-## 🙋‍♀️ About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Developer+☕;Web+Developer+💻;Open+Source+Learner+🚀;Python+Explorer+🐍"/>
 
-- 🎓 MCA Student
-- 💻 Skilled in Java, C, C++, HTML, CSS
-- 🌱 Currently learning Python & Open Source
-- 🚀 Interested in Web Development
-- 📚 Exploring GitHub & GSSoC
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🌸 About Me
 
-<p align="left">
+```yaml
+Name: Sakshi Rai
+Education: MCA Student
+Languages: Java, C, C++, HTML, CSS, JavaScript
+Currently Learning: Python & Open Source
+Goal: Become a Full Stack Developer
+```
 
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+---
 
-</p>
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,python,git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raisakshii&show_icons=true&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raisakshii&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raisakshii&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raisakshii&theme=radical"/>
 
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raisakshii&theme=onedark">
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raisakshii&theme=radical&no-frame=true&margin-w=10"/>
+
+</div>
 
 ---
 
-## 🌟 Top Languages
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisakshii&layout=compact&theme=tokyonight">
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raisakshii&theme=react-dark"/>
 
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raisakshii&theme=tokyo-night">
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake Eating Contributions
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/raisakshii/raisakshii/output/github-contribution-grid-snake.svg">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/raisakshii/raisakshii/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/raisakshii">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sakshi-rai-9b433725b/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+<img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-⭐ From Sakshi Rai
+## ✨ Fun Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile 💖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+
+</div>
