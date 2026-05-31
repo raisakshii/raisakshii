@@ -12,17 +12,16 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student
+- 🎓 MCA Student at Banasthali Vidyapith
 - 💻 Passionate about Software Development
 - 🌱 Currently learning Django, Full Stack Development & Open Source
 - 🚀 GSSoC Contributor
-- 🔭 Building impactful software projects
-- 🏆 Research Intern at IIT BHU 
-- ⚡ Interested in frontend, Backend Development, Java & Python
+- 🏆 Research Intern at IIT BHU
+- ⚡ Interested in Frontend, Backend Development, Java & Python
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -32,8 +31,6 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 ### Master of Computer Applications (MCA)
 **Banasthali Vidyapith, Rajasthan, India**
 
-
-
 ### Senior Secondary (CBSE)
 **SAH Educational Center, Varanasi, India**
 
@@ -41,7 +38,7 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 
 ## 🏅 Experience
 
-### Research Internship – IIT BHU (2024)
+### Research Internship – IIT BHU
 
 - Worked under **Prof. A. K. Singh**
 - Explored software development and research methodologies
@@ -120,20 +117,6 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 
 ---
 
-## 🌟 Open Source
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GSSoC-2026-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Love-Coding-red?style=for-the-badge"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -144,11 +127,25 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 
 ---
 
-## 🐍 Contribution Snake
+## 🌟 Open Source
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raisakshii/raisakshii/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://img.shields.io/badge/GSSoC-Contributor-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Code%20With-Passion-ff69b4?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📋 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raisakshii&theme=tokyonight"/>
 
 </div>
 
@@ -167,14 +164,14 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 </a>
 
 <a href="mailto:raisakshiii.027@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 Developer Quote
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -198,6 +195,6 @@ MCA Student | Java Developer | Django Developer | Open Source Contributor
 
 ### ✨ Code • Learn • Build • Repeat ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=120&section=footer"/>
 
 </div>
